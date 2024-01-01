@@ -4,6 +4,8 @@
 https://www.youtube.com/watch?v=RPx1WmuFHhw&t=27s&ab_channel=Yes
 
 
+
+
 ## 1. I FEEL DIZZY (Recursive-Thoughts) 
 - Technique : recursive algorithm
 - Description : This process is inspired by Casey Reas' work and aims to represent the feeling of dizziness and mental complexity. It combines a fractal tree visualization with the text "I FEEL DIZZY" to illustrate the idea that excessive thinking can lead to mental overload.
@@ -13,11 +15,15 @@ https://www.youtube.com/watch?v=RPx1WmuFHhw&t=27s&ab_channel=Yes
 <img width="565" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/4f3ef988-ab1f-477d-8055-840e00d3329a">
 <img width="582" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/72e26424-6c6a-4994-bca4-47a25cd93674">
 
+
+
 ## 2. Draw your night sky
 - Technique  : L-System, random하게 constellation 을 생성하기 위한, vertex의 좌표를 담은 배열 
 - Description : creates a night sky with stars and constellations. The constellations are generated based on an L-system rule, and the user can interactively change the constellations by pressing keys. The shooting star effect adds an interesting visual element to the night sky.
   
  <img width="420" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/7195c5d2-14e5-4495-af2e-a5e2f65b3666">
+
+
 
 
 ## 3. Stack your memory! 
@@ -31,6 +37,8 @@ The thought of how to better preserve precious memories through photographs led 
 <img width="447" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/a5cacb9e-7e08-4ef0-bbb1-088d172d6cd6">
 
 
+
+
 ## 4. Steps to Afterworld 
 - Technique  : generative design system - slider
 Convert the image to grayscale and detect edges 
@@ -40,12 +48,16 @@ Copy the pixel array values of the grayscale-converted image to the screen's pix
 ![이미지 2023  12  7  오후 8 51](https://github.com/jinnyleeis/creative-coding/assets/101055312/c2870d74-1377-4cdd-9d79-cf8f6bc6746c)
 
 
+
+
 ## 5. big mac index of the world 
 - Technique : Data visualization
 - Description : The motivation behind this project is the standardized nature of the Big Mac burger, which is made with similar ingredients and follows a uniform recipe, regardless of the region it is sold in. Therefore, if the price of a Big Mac burger is higher in one country compared to others, it suggests that the cost of living in that country is relatively higher. To visualize this concept in a simple and intuitive way, I considered using a barcode-style visualization in the project.
   
 <img width="757" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/9189cd8c-d5c2-4d03-864e-282cee41f837">
 <img width="686" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/ae613dad-3765-4140-9e4e-4b23fb3d6621">
+
+
 
 
 ## 6. things once created, once perished 
@@ -58,11 +70,15 @@ The particles accumulate vertically, creating a stacking effect. When the mouse 
 
 
 
+
+
 ## 7. Would you like me to tell you how Mom and Dad first met?
 - Technique : Machine-learning - classification
 - Description : This project visualizes the story of how Mom and Dad met by reminiscing about the past, narrated to a child using Processing. Inspired by the interactive newspapers in the Harry Potter series, the goal was to create a dynamic recollection scene where specific parameters trigger animated changes.
   
 <img width="824" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/1b2b105e-0ff3-41a0-8f50-6eda4e9c6cf5">
+
+
 
   
 ## 8. “Your Phone: The Cocktail Maker" 
@@ -75,6 +91,8 @@ but if the phone itself becomes an object for direct interaction, the gestures w
 
 
 
+
+
 ## 9. “Chord of the Minions “ 
 -  Technique :  Machine-learning - Polynomial Regression
 - Description : To create an instrument, I recorded the sounds of Minions for each pitch from C4 to F5, ensuring that each of the 11 pitches corresponded to a specific recorded sound. When a key on the keyboard is pressed, it triggers the playback of the corresponding pitch. 
@@ -83,7 +101,9 @@ The input for the model is the continuous value of the microphone's position, an
 <img width="808" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/dba67765-8edb-4e22-accf-39a195d83734">
 
 
-##10.Celesture
+
+
+## 10.Celesture
 - Technique : Machine-learning - classification
 - Description: You can create the texture through gestures such as turning,lifting, and stirring your phone.
   
