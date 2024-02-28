@@ -77,7 +77,9 @@ The particles accumulate vertically, creating a stacking effect. When the mouse 
 - Description : This project visualizes the story of how Mom and Dad met by reminiscing about the past, narrated to a child using Processing. Inspired by the interactive newspapers in the Harry Potter series, the goal was to create a dynamic recollection scene where specific parameters trigger animated changes.
   
 <img width="824" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/1b2b105e-0ff3-41a0-8f50-6eda4e9c6cf5">
-![Untitled](https://github.com/jinnyleeis/creative-coding/assets/101055312/b16319c4-03a6-44e0-bf47-e6bc7b01ae2f)
+
+![Untitled](https://github.com/jinnyleeis/creative-coding/assets/101055312/93bebd75-fb4a-4367-a13c-e99d36b9fd51)
+
 
 
 
