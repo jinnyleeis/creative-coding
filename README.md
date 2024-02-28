@@ -77,6 +77,7 @@ The particles accumulate vertically, creating a stacking effect. When the mouse 
 - Description : This project visualizes the story of how Mom and Dad met by reminiscing about the past, narrated to a child using Processing. Inspired by the interactive newspapers in the Harry Potter series, the goal was to create a dynamic recollection scene where specific parameters trigger animated changes.
   
 <img width="824" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/1b2b105e-0ff3-41a0-8f50-6eda4e9c6cf5">
+![Untitled](https://github.com/jinnyleeis/creative-coding/assets/101055312/b16319c4-03a6-44e0-bf47-e6bc7b01ae2f)
 
 
 
@@ -89,6 +90,10 @@ but if the phone itself becomes an object for direct interaction, the gestures w
 <img width="1112" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/d2ce6a41-56d2-4abe-8322-0b52555a0dae">
 <img width="1141" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/cbaf166b-9ebd-49f1-afd8-016606417d8f">
 
+![Untitled (4)](https://github.com/jinnyleeis/creative-coding/assets/101055312/438f22b9-3e6d-48f8-9bcf-7bf57869b07e)
+![Untitled (3)](https://github.com/jinnyleeis/creative-coding/assets/101055312/f31c9427-cb6b-4278-a5a2-82833f781425)
+![Untitled (2)](https://github.com/jinnyleeis/creative-coding/assets/101055312/b016cb3a-2611-4a5b-9bc6-78f581b325ee)
+![Untitled (1)](https://github.com/jinnyleeis/creative-coding/assets/101055312/80f4e0f5-10f9-497c-96d9-195d8160b96d)
 
 
 
@@ -108,3 +113,5 @@ The input for the model is the continuous value of the microphone's position, an
 - Description: You can create the texture through gestures such as turning,lifting, and stirring your phone.
   
 <img width="1024" alt="image" src="https://github.com/jinnyleeis/creative-coding/assets/101055312/1f14a6f2-2307-4646-9047-6cf598e8693e">
+
+
